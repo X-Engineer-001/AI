@@ -1,0 +1,14 @@
+The "API" directory contain the evaluation API, which was copied from the project directory.
+
+The "project" directory was a copy of the root directory of my PyCharm project,
+which also contain the evaluation API to enable my program to interact with.
+
+I used Python 3.8 as interpreter.
+
+The final test version is "1609510473.2852118"
+
+The "Output_records_from_program.txt" file was the outputs from my program through execution.
+
+The "Report_file_from_API.txt" file was the output file from the evaluation API.
+
+The remaining two files contain the same thing, which is my paper report.

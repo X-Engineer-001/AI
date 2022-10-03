@@ -1,0 +1,749 @@
+test version: 1609510473.2852118
+Task ID: 1
+Task URL: https://www.ncu.edu.tw/events/showevent/eventid/9380
+Root URL: https://www.ncu.edu.tw/
+Explore root URL and task URL...
+(0, 0, 2, 4, 29, '校園活動', 'https://www.ncu.edu.tw/events')
+Accepted: https://www.ncu.edu.tw/events
+Task ID: 2
+Task URL: https://www.tam.gov.taipei/News_Content.aspx?n=794B17A953424610&sms=9D72E82EC16F3E64&s=E310EC676136BFC3
+Root URL: https://www.tam.gov.taipei/
+Explore root URL and task URL...
+(0, 0, 0, 4, 76, '活動訊息', 'https://www.tam.gov.taipei/News.aspx?n=E297CECA2C39F78D&sms=9D72E82EC16F3E64')
+(0, 0, 2, 6, 76, '更多 活動訊息', 'https://www.tam.gov.taipei/News.aspx?n=794B17A953424610&sms=9D72E82EC16F3E64')
+Accepted: https://www.tam.gov.taipei/News.aspx?n=794B17A953424610&sms=9D72E82EC16F3E64
+Task ID: 3
+Task URL: https://www.gov.taipei/News_Content.aspx?n=DB8DBA97CF926C87&sms=9D72E82EC16F3E64&s=CF452803E6562643
+Root URL: https://www.gov.taipei/
+Explore root URL and task URL...
+(0, 0, 0, 5, 82, '活動主題館', 'https://www.gov.taipei/ActivityTheme3.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64')
+Accepted: https://www.gov.taipei/ActivityTheme3.aspx?n=B1167F83E1FE0CD9&sms=9D72E82EC16F3E64
+Task ID: 4
+Task URL: http://artist.nccu.edu.tw/ex1.html
+Root URL: http://artist.nccu.edu.tw/
+Explore root URL and task URL...
+(0, 0, 2, 4, 37, '開幕活動', 'http://artist.nccu.edu.tw/ex1_ac.html')
+(0, 1, 0, 4, 42, '展覽專文', 'http://artist.nccu.edu.tw/ex1_article.html')
+(0, 1, 0, 4, 42, '展覽系列', 'http://artist.nccu.edu.tw/exhibitions.html')
+Accepted: http://artist.nccu.edu.tw/exhibitions.html
+Task ID: 5
+Task URL: http://careernthu.conf.asia/news.aspx?lang=cht&pid=5922
+Root URL: http://careernthu.conf.asia/
+Explore root URL and task URL...
+(0, 0, 0, 5, 52, '活動企劃書', 'http://careernthu.conf.asia/page.aspx?pid=8&lang=cht')
+(2, 0, 12, 26, 51, '企業註冊\n想參與今年的徵才活動嗎？快來註冊您的企業資料吧！', 'http://careernthu.conf.asia/regi_fast.aspx?lang=cht')
+(2, 8, 0, 21, 50, '最新公告\n企業徵才DM、大會公告，請到這邊來觀看！', 'http://careernthu.conf.asia/sys_news.aspx?lang=cht')
+Accepted: http://careernthu.conf.asia/sys_news.aspx?lang=cht
+Task ID: 6
+Task URL: https://parklanes.com.tw/takewhatyouneed/
+Root URL: https://parklanes.com.tw/
+Explore root URL and task URL...
+(0, 0, 2, 4, 39, '金典活動', 'https://parklanes.com.tw/category/event')
+(0, 6, 2, 3, 53, '相機課', 'https://parklanes.com.tw/%e7%9b%b8%e6%a9%9f%e8%aa%b2/')
+(0, 6, 4, 5, 71, '微型生態課', 'https://parklanes.com.tw/%e5%be%ae%e5%9e%8b%e7%94%9f%e6%85%8b%e8%aa%b2/')
+(0, 6, 4, 5, 71, '靈魂蠟筆課', 'https://parklanes.com.tw/%e9%9d%88%e9%ad%82%e8%a0%9f%e7%ad%86%e8%aa%b2/')
+(0, 8, 0, 4, 71, '最新檔期', 'https://parklanes.com.tw/projects/%e5%91%80%e5%91%80%e5%8f%ae%e5%92%9a/')
+(1, 0, 0, 4, 38, 'more', 'https://parklanes.com.tw/category/news')
+(2, 1, 5, 37, 89, '火山販賣舖展覽火山公園717五831一展覽地點4F光盒子植物叢中奇形怪狀的', 'https://parklanes.com.tw/%e7%81%ab%e5%b1%b1%e8%b2%a9%e8%b3%a3%e8%88%96%e5%b1%95%e8%a6%bd/')
+(2, 1, 9, 11, 71, '海星居酒屋_梅康米展覽', 'https://parklanes.com.tw/%e6%a2%85%e5%ba%b7%e7%b1%b3%e5%b1%95%e8%a6%bd/')
+(2, 1, 20, 44, 116, '海星居酒屋の週邊介紹海星居酒屋の週邊介紹展覽樣品地點4F海星居酒屋週邊販售時間20200', 'https://parklanes.com.tw/%e6%b5%b7%e6%98%9f%e5%b1%85%e9%85%92%e5%b1%8b%e3%81%ae%e9%80%b1%e9%82%8a%e4%bb%8b%e7%b4%b9/')
+(2, 1, 24, 32, 80, '桑拿大可的曬衣場桑拿大可的曬衣場717五831一展覽地點4F飯饌', 'https://parklanes.com.tw/%e6%a1%91%e6%8b%bf%e5%a4%a7%e5%8f%af%e5%b1%95%e8%a6%bd/')
+(2, 8, 16, 57, 71, '第六市場九愛補貨UberEats最新優惠金典綠園道商場X第六市場XUberEats用UberEats通通一指搞定第', 'https://parklanes.com.tw/uber-eats%e4%b9%9d%e6%84%9b%e8%a3%9c%e8%b2%a8/')
+Failed, test the root url...
+Failed, test exactly the task url...
+Failed, cannot find the event source page.
+Task ID: 7
+Task URL: http://cpmat.org.tw/?p=6578
+Root URL: http://cpmat.org.tw/
+Explore root URL and task URL...
+(0, 0, 2, 6, 27, '近期活動&課程', 'http://cpmat.org.tw/?cat=20')
+Accepted: http://cpmat.org.tw/?cat=20
+Task ID: 8
+Task URL: http://demo.wineacademy.tw/page/?b=62&cl=salon&fn=video&p=364
+Root URL: http://demo.wineacademy.tw/
+Explore root URL and task URL...
+(0, 5, 2, 4, 38, '酒莊講座', 'http://demo.wineacademy.tw/salon/video')
+Accepted: http://demo.wineacademy.tw/salon/video
+Task ID: 9
+Task URL: http://ewda.tw/modules/ewda_action/action.php?asn=4774
+Root URL: http://ewda.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 35, '活動報名', 'http://ewda.tw/modules/ewda_action/')
+Accepted: http://ewda.tw/modules/ewda_action/
+Task ID: 10
+Task URL: http://gpm.com.tw/index.php?do=news&pid=0&id=89
+Root URL: http://gpm.com.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 41, '活動訊息', 'http://gpm.com.tw/index.php?do=news&pid=0')
+Accepted: http://gpm.com.tw/index.php?do=news&pid=0
+Task ID: 11
+Task URL: http://ice.net.tw/news_view.php?sn=1824
+Root URL: http://ice.net.tw/
+Explore root URL and task URL...
+(0, 0, 4, 6, 39, '兒童程式活動', 'http://ice.net.tw/ice_class.php?suid=92')
+(1, 0, 0, 33, 26, '\n\t\t\t\t\t<img src="images/morenews.gif" alt="瀏覽更多最新消息" width="84" height="11" border="0">', 'http://ice.net.tw/news.php')
+Accepted: http://ice.net.tw/news.php
+Task ID: 12
+Task URL: http://investmentcommunity16888.blogspot.com/2020/12/20210107.html
+Root URL: http://investmentcommunity16888.blogspot.com/
+Explore root URL and task URL...
+(0, 5, 0, 2, 93, '講座', 'http://investmentcommunity16888.blogspot.tw/search/label/%E6%8A%95%E8%B3%87%E8%AC%9B%E5%BA%A7')
+(0, 5, 0, 4, 109, '講座資訊', 'http://investmentcommunity16888.blogspot.com/search/label/%E6%8A%95%E8%B3%87%E8%AC%9B%E5%BA%A7?max-results=10')
+(0, 5, 2, 4, 94, '投資講座', 'http://investmentcommunity16888.blogspot.com/search/label/%E6%8A%95%E8%B3%87%E8%AC%9B%E5%BA%A7')
+Accepted: http://investmentcommunity16888.blogspot.com/search/label/%E6%8A%95%E8%B3%87%E8%AC%9B%E5%BA%A7
+Task ID: 13
+Task URL: http://kfa.kcg.gov.tw/news/detail/5eb8f68dda12e50007c9901e
+Root URL: http://kfa.kcg.gov.tw/
+Explore root URL and task URL...
+(0, 0, 0, 2, 35, '活動', 'http://kfa.kcg.gov.tw/news/activity')
+Accepted: http://kfa.kcg.gov.tw/news/activity
+Task ID: 14
+Task URL: http://nfu.buyersline.com.tw/news_detail.php?NNo=127
+Root URL: http://nfu.buyersline.com.tw/
+Explore root URL and task URL...
+(1, 0, 0, 4, 37, 'more', 'http://nfu.buyersline.com.tw/news.php')
+Accepted: http://nfu.buyersline.com.tw/news.php
+Task ID: 15
+Task URL: http://npac-nso.org/npac/news/1587988763994292.html
+Root URL: http://npac-nso.org/
+Explore root URL and task URL...
+(0, 2, 1, 4, 37, '表演節目', 'http://npac-ntch.org/zh/programs/list')
+(0, 2, 1, 7, 29, '表演藝術圖書館', 'http://web.lib.npac-ntch.org/')
+(0, 2, 4, 7, 25, 'PAR表演藝術', 'http://par.npac-ntch.org/')
+(0, 4, 0, 7, 34, '節目及場地資訊', 'http://npac-nso.org/npac/ntch.html')
+(0, 4, 2, 4, 37, '主辦節目', 'http://npac-ntch.org/zh/programs/host')
+(0, 9, 2, 4, 34, '本月焦點', 'http://npac-nso.org/npac/news.html')
+Accepted: http://npac-nso.org/npac/news.html
+Task ID: 16
+Task URL: http://taichung.trkmall.com.tw/event-content.html?sn=994
+Root URL: http://taichung.trkmall.com.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 41, '活動情報', 'http://taichung.trkmall.com.tw/event.html')
+Accepted: http://taichung.trkmall.com.tw/event.html
+Task ID: 17
+Task URL: http://taiwangca.org/news/details/142
+Root URL: http://taiwangca.org/
+Explore root URL and task URL...
+(0, 0, 2, 4, 32, '最新活動', 'http://taiwangca.org/news/list/1')
+(0, 0, 5, 7, 30, '最新消息與活動', 'http://taiwangca.org/news/list')
+Accepted: http://taiwangca.org/news/list
+Task ID: 18
+Task URL: https://thecubespace.com/project/liquid-love-sound-meridian-zh/
+Root URL: https://thecubespace.com/
+Explore root URL and task URL...
+(0, 1, 0, 2, 75, '展覽', 'https://thecubespace.com/project-list/%e7%9b%ae%e5%89%8d%e5%b1%95%e8%a6%bd/')
+Accepted: https://thecubespace.com/project-list/%e7%9b%ae%e5%89%8d%e5%b1%95%e8%a6%bd/
+Task ID: 19
+Task URL: http://www.tpqc.com.tw/python%e5%a4%a7%e6%95%b8%e6%93%9a%e9%87%91%e8%9e%8d%e8%82%a1%e7%a5%a8%e6%9c%9f%e8%b2%a8%e7%b6%b2%e8%b7%af%e7%88%ac%e8%9f%b2%e8%b3%87%e6%96%99%e5%88%86%e6%9e%90%e5%af%a6%e5%8b%99%e7%8f%ad%e7%ac%ac01-2/
+Root URL: http://www.tpqc.com.tw/
+Explore root URL and task URL...
+(0, 0, 0, 6, 196, '活動場地種類', 'https://www.tpqc.com.tw/%e6%b4%bb%e5%8b%95%e5%a0%b4%e5%9c%b0%e7%a8%ae%e9%a1%9e%e5%bd%99%e6%95%b4%ef%bd%9c%e9%81%b8%e5%b0%8d%e7%a9%ba%e9%96%93%e7%a7%9f%e5%80%9f%e4%b8%8d%e7%85%a9%e6%83%b1%ef%bc%81/')
+(0, 6, 0, 6, 98, '課程文創藝術', 'https://www.tpqc.com.tw/%e6%89%80%e6%9c%89%e8%aa%b2%e7%a8%8b/%e6%96%87%e5%89%b5%e8%97%9d%e8%a1%93/')
+Accepted: https://www.tpqc.com.tw/%e6%89%80%e6%9c%89%e8%aa%b2%e7%a8%8b/%e6%96%87%e5%89%b5%e8%97%9d%e8%a1%93/
+Task ID: 20
+Task URL: http://tw-toylibrary.org/new/event_detail.php?id=16
+Root URL: http://tw-toylibrary.org/
+Explore root URL and task URL...
+(0, 0, 0, 4, 38, '活動資訊', 'http://tw-toylibrary.org/new/event.php')
+Accepted: http://tw-toylibrary.org/new/event.php
+Task ID: 21
+Task URL: https://tydep-eew.com.tw/news-detail.php?id=280
+Root URL: https://tydep-eew.com.tw/
+Explore root URL and task URL...
+(0, 8, 0, 4, 33, '最新消息', 'https://tydep-eew.com.tw/news.php')
+Accepted: https://tydep-eew.com.tw/news.php
+Task ID: 22
+Task URL: http://umkt.jutfoundation.org.tw/news/59/2712
+Root URL: http://umkt.jutfoundation.org.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 40, '活動快訊', 'http://umkt.jutfoundation.org.tw/news/59')
+Accepted: http://umkt.jutfoundation.org.tw/news/59
+Task ID: 23
+Task URL: https://www.artistvillage.org/event-detail.php?p=4354
+Root URL: https://www.artistvillage.org/
+Explore root URL and task URL...
+(0, 0, 2, 4, 39, '展演活動', 'https://www.artistvillage.org/event.php')
+Accepted: https://www.artistvillage.org/event.php
+Task ID: 24
+Task URL: http://www.asiaartcenter.org/asia/art-taipei-2020-%e4%ba%9e%e6%b4%b2%e8%97%9d%e8%a1%93%e4%b8%ad%e5%bf%83-%e5%b1%95%e4%bd%8d-c06/
+Root URL: http://www.asiaartcenter.org/
+Explore root URL and task URL...
+(0, 1, 0, 2, 57, '展覽', 'http://www.asiaartcenter.org/asia/%e5%b1%95%e8%a6%bd2020/')
+(0, 8, 0, 4, 75, '最新消息', 'http://www.asiaartcenter.org/asia/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF-2020')
+Accepted: http://www.asiaartcenter.org/asia/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF-2020
+Task ID: 25
+Task URL: http://www.chailease.org.tw/ugC_News_Detail.asp?hidNewsID=134
+Root URL: http://www.chailease.org.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 44, '活動報名', 'http://www.chailease.org.tw/ugC_Activity.asp')
+(0, 8, 0, 4, 40, '最新消息', 'http://www.chailease.org.tw/ugC_News.asp')
+Accepted: http://www.chailease.org.tw/ugC_News.asp
+Task ID: 26
+Task URL: http://www.chi-nanchurch.tw/bulletin/events/2020102701/view
+Root URL: http://www.chi-nanchurch.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 43, '活動訊息', 'http://www.chi-nanchurch.tw/bulletin/events')
+Accepted: http://www.chi-nanchurch.tw/bulletin/events
+Task ID: 27
+Task URL: http://www.cityyeast.com/passion3_show.php?passion3type_id2=34&passion3_id=1563
+Root URL: http://www.cityyeast.com/
+Explore root URL and task URL...
+(0, 1, 0, 2, 63, '展覽', 'http://www.cityyeast.com/passion3_list.php?passion3type_id2=101')
+Accepted: http://www.cityyeast.com/passion3_list.php?passion3type_id2=101
+Task ID: 28
+Task URL: http://www.comedy.com.tw/2020/04/30/wnl/
+Root URL: http://www.comedy.com.tw/
+Explore root URL and task URL...
+(0, 2, 0, 5, 48, '演出與公告', 'http://www.comedy.com.tw/category/uncategorized/')
+(2, 2, 7, 8, 46, '來福洞洞么：冬巡演', 'https://comedyclub.kktix.cc/events/laughwinter')
+(2, 2, 8, 11, 37, '卡米地喜劇基地-展演、出租', 'http://www.comedy.com.tw/comedy_base/')
+(2, 2, 11, 17, 46, '這些年比較不紅的脫口秀演員火烤大賽', 'https://comedyclub.kktix.cc/events/roastbattle')
+(2, 2, 18, 21, 46, '12/11.13 這兩年那些比較好笑的喜劇演員們', 'http://www.comedy.com.tw/2020/11/13/funnyyear/')
+(2, 2, 18, 23, 49, '12/18-19.8pm 漫才少爺の台灣環島演出：台北站', 'http://www.comedy.com.tw/2020/11/13/aroundtaipei/')
+(2, 2, 23, 24, 47, '12/25起 上班不要看X卡米地-火熱耶誕節.北中高巡演', 'http://www.comedy.com.tw/2020/11/13/moemoexmas/')
+(2, 4, 0, 9, 34, '節目洽談-脫口秀/喜劇', 'http://www.comedy.com.tw/business/')
+(4, 0, 3, 7, 20, '三倍券活動網頁', 'https://3000.gov.tw/')
+Failed, test the root url...
+Accepted: http://www.comedy.com.tw/
+Task ID: 29
+Task URL: http://www.eagletek.com.tw/news.php?act=view&no=78
+Root URL: http://www.eagletek.com.tw/
+Explore root URL and task URL...
+(0, 0, 2, 4, 35, '消息活動', 'http://www.eagletek.com.tw/news.php')
+(0, 0, 2, 4, 41, '展會活動', 'http://www.eagletek.com.tw/news.php?cat=2')
+Accepted: http://www.eagletek.com.tw/news.php?cat=2
+Task ID: 30
+Task URL: http://www.gston.com.tw/product_detail.php?item=72
+Root URL: http://www.gston.com.tw/
+Explore root URL and task URL...
+(0, 1, 2, 4, 35, '近期展覽', 'http://www.gston.com.tw/product.php')
+Accepted: http://www.gston.com.tw/product.php
+Task ID: 31
+Task URL: http://www.guandu-natureart.tw/event/423
+Root URL: http://www.guandu-natureart.tw/
+Explore root URL and task URL...
+(2, 0, 0, 8, 37, '活動 Events', 'http://www.guandu-natureart.tw/events')
+Accepted: http://www.guandu-natureart.tw/events
+Task ID: 32
+Task URL: http://www.hondao.org.tw/news-detail/938
+Root URL: http://www.hondao.org.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 75, '活動訊息', 'http://www.hondao.org.tw/news?category=%E6%B4%BB%E5%8B%95%E8%A8%8A%E6%81%AF')
+Accepted: http://www.hondao.org.tw/news?category=%E6%B4%BB%E5%8B%95%E8%A8%8A%E6%81%AF
+Task ID: 33
+Task URL: http://www.ice.net.tw/ice_class_view.php?csn=3862
+Root URL: http://www.ice.net.tw/
+Explore root URL and task URL...
+(0, 0, 4, 6, 43, '兒童程式活動', 'http://www.ice.net.tw/ice_class.php?suid=92')
+(1, 0, 0, 33, 30, '\n\t\t\t\t\t<img src="images/morenews.gif" alt="瀏覽更多最新消息" width="84" height="11" border="0">', 'http://www.ice.net.tw/news.php')
+(2, 6, 3, 50, 31, '<img alt="課程需求調查" src="images/menu05.gif" width="179" height="25" border="0">', 'http://www.ice.net.tw/needs.php')
+(2, 6, 8, 10, 46, '「產業人才投資計畫」課程', 'http://www.ice.net.tw/eeimage_view.php?suid=68')
+(2, 6, 9, 33, 39, '\n\t\t\t\t\t\t<img src="images/more.gif" alt="瀏灠更多熱門課程" width="48" height="16" border="0">', 'http://www.ice.net.tw/ice_class_hot.php')
+(2, 6, 9, 33, 40, '\n\t\t\t\t\t\t<img src="images/more.gif" alt="瀏灠更多推薦課程" width="48" height="16" border="0">', 'http://www.ice.net.tw/ice_class_push.php')
+(2, 6, 13, 18, 43, '12/20(日) 聖誕大餐廚藝教學課程🍽️ 招生中~', 'http://www.ice.net.tw/news_view.php?sn=1833')
+(3, 0, 0, 25, 43, '<img border="0" src="./webfile/banner_img/20201127114846.jpg" alt="110年度中教大「中小學校長、主任甄選素養培訓班」">', 'http://www.ice.net.tw/news_view.php?sn=1825')
+Failed, test the root url...
+Failed, test exactly the task url...
+Failed, cannot find the event source page.
+Task ID: 34
+Task URL: http://www.irun.com.tw/activity/activity.php?sid=6802
+Root URL: http://www.irun.com.tw/
+Explore root URL and task URL...
+(0, 5, 4, 6, 63, '訓練課程/講習', 'http://www.irun.com.tw/activity/activity-list.php?acttypesid=16')
+(1, 0, 0, 5, 41, '更多新消息 >>', 'http://www.irun.com.tw/home/news-list.php')
+(2, 0, 3, 40, 49, '<img src="../images/l_03.gif" alt="活動訊息" name="Image3" width="152" height="39" border="0">', 'http://www.irun.com.tw/activity/activity-list.php')
+Accepted: http://www.irun.com.tw/activity/activity-list.php
+Task ID: 35
+Task URL: http://www.ldatc.org.tw/news/%e3%80%9010%e6%9c%8818%e6%97%a5%e5%8f%b0%e4%b8%ad%e5%b8%82%e5%ad%b8%e7%bf%92%e9%9a%9c%e7%a4%99%e5%8d%94%e6%9c%83%e6%bc%86%e5%bd%88%e6%b0%b4%e6%99%b6%e5%bd%88%e6%b4%bb%e5%8b%95%e3%80%91-164.html
+Root URL: http://www.ldatc.org.tw/
+Explore root URL and task URL...
+(0, 0, 2, 4, 28, '近期活動', 'http://www.ldatc.org.tw/news')
+Accepted: http://www.ldatc.org.tw/news
+Task ID: 36
+Task URL: http://www.majisquare.com/event_view.php?id=64419
+Root URL: http://www.majisquare.com/
+Explore root URL and task URL...
+(0, 0, 1, 3, 40, '好活動', 'http://www.majisquare.com/event_list.php')
+Accepted: http://www.majisquare.com/event_list.php
+Task ID: 37
+Task URL: http://www.psy.ntu.edu.tw/index.php/homepage/speech/2352-1091104
+Root URL: http://www.psy.ntu.edu.tw/
+Explore root URL and task URL...
+(0, 0, 3, 5, 64, '系學會活動', 'http://www.psy.ntu.edu.tw/index.php/activity/student-association')
+(0, 2, 0, 4, 51, '演講訊息', 'http://www.psy.ntu.edu.tw/index.php/homepage/speech')
+Accepted: http://www.psy.ntu.edu.tw/index.php/homepage/speech
+Task ID: 38
+Task URL: https://www.rectp.org/2018/01/2020.html
+Root URL: https://www.rectp.org/
+Explore root URL and task URL...
+(0, 5, 0, 7, 44, '講經團契禱告會', 'https://www.rectp.org/2018/01/blog-post.html')
+(0, 5, 2, 4, 42, '特別講座', 'http://www.rectp.org/search/label/lectures')
+(0, 6, 2, 7, 45, '聚會課程時間表', 'http://www.rectp.org/2010/07/blog-post_4.html')
+(0, 6, 4, 6, 46, '核心教義課程', 'http://www.rectp.org/2010/07/blog-post_12.html')
+Failed, test the root url...
+Failed, test exactly the task url...
+Failed, cannot find the event source page.
+Task ID: 39
+Task URL: http://www.sinpink.com/lecture_dt.php?id=158
+Root URL: http://www.sinpink.com/
+Explore root URL and task URL...
+(1, 0, 0, 26, 47, '<img src="images/more.gif" border="0">', 'http://www.sinpink.com/exhibition_dt.php?id=189')
+(2, 1, 0, 17, 47, '展覽名稱 | 惡性荀環 新世代的疏離與異化', 'http://www.sinpink.com/exhibition_dt.php?id=176')
+(2, 2, 12, 13, 44, '美國時間之《布喞布喞》 行為表演', 'http://www.sinpink.com/lecture_dt.php?id=147')
+(2, 5, 20, 25, 44, '2020新樂園Emerge新秀策展人培力講座-＃高雄場', 'http://www.sinpink.com/lecture_dt.php?id=156')
+(2, 6, 16, 18, 40, '【職場進階＿S.P.P. 藝術行政人才「續航力」課程】', 'http://www.sinpink.com/news_dt.php?id=49')
+(3, 0, 0, 45, 40, '<img src="images/icon_05.jpg" width="190" height="49" border="0">', 'http://www.sinpink.com/news_dt.php?id=48')
+(3, 0, 0, 46, 49, '<img src="images/INDEX_15.jpg" width="63" height="316" border="0">', 'http://www.sinpink.com/exhibition.php?action=init')
+Accepted: http://www.sinpink.com/exhibition.php?action=init
+Task ID: 40
+Task URL: http://www.twcenter.org.tw/archives/4263
+Root URL: http://www.twcenter.org.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 81, '活動消息', 'http://www.twcenter.org.tw/archives/category/%e6%b4%bb%e5%8b%95%e6%b6%88%e6%81%af')
+Accepted: http://www.twcenter.org.tw/archives/category/%e6%b4%bb%e5%8b%95%e6%b6%88%e6%81%af
+Task ID: 41
+Task URL: http://www.urcda.org.tw/study_ii.html?getId=44
+Root URL: http://www.urcda.org.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 34, '活動研習', 'http://www.urcda.org.tw/study.html')
+(0, 0, 0, 4, 41, '活動資訊', 'http://www.urcda.org.tw/news.html?getId=2')
+Accepted: http://www.urcda.org.tw/news.html?getId=2
+Task ID: 42
+Task URL: http://www.wsa.com.tw/show.php?pi_index=966
+Root URL: http://www.wsa.com.tw/
+Explore root URL and task URL...
+(0, 4, 3, 7, 33, '<img name="listings" src="images/top/listings.jpg" width="48" height="44" border="0" id="listings" alt="節目總表">', 'http://www.wsa.com.tw/summary.php')
+Accepted: http://www.wsa.com.tw/summary.php
+Task ID: 43
+Task URL: http://www.xwtsc.com/news_detail.php?NNo=402
+Root URL: http://www.xwtsc.com/
+Explore root URL and task URL...
+(0, 6, 2, 4, 32, '運動課程', 'http://www.xwtsc.com/classes.php')
+(0, 8, 0, 4, 29, '最新資訊', 'http://www.xwtsc.com/news.php')
+Accepted: http://www.xwtsc.com/news.php
+Task ID: 44
+Task URL: http://www.yssa.org.tw/2020/06/86.html
+Root URL: http://www.yssa.org.tw/
+Explore root URL and task URL...
+(2, 0, 15, 17, 45, '【重要公告】協會會員大會暨會員出遊活動', 'http://www.yssa.org.tw/2020/08/blog-post.html')
+(2, 0, 16, 18, 38, '樂山創立86週年感恩慶典-志工服務活動', 'http://www.yssa.org.tw/2020/06/86.html')
+Failed, test the root url...
+Accepted: http://www.yssa.org.tw/
+Task ID: 45
+Task URL: https://1289084.kktix.cc/events/904bfc4c-copy-11
+Root URL: https://1289084.kktix.cc/
+Explore root URL and task URL...
+(0, 1, 0, 2, 42, '展覽', 'https://kktix.cc/events?event_tag_ids_in=4')
+(0, 2, 3, 6, 25, '拾異展演空間', 'https://1289084.kktix.cc/')
+Accepted: https://1289084.kktix.cc/
+Task ID: 46
+Task URL: https://actio.ncl.edu.tw/activitydetails?uid=2&pid=211
+Root URL: https://actio.ncl.edu.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 25, '活動列表', 'https://actio.ncl.edu.tw/')
+Accepted: https://actio.ncl.edu.tw/
+Task ID: 47
+Task URL: https://activity.tipo.gov.tw/ct.asp?xItem=37379&ctNode=817&mp=1
+Root URL: https://activity.tipo.gov.tw/
+Explore root URL and task URL...
+(0, 0, 3, 7, 32, '研討會活動登錄', 'https://activitysys.tipo.gov.tw/')
+(2, 2, 17, 33, 63, '中華民國智慧財產權協會 智權專題系列演講- 加盟事業與客戶破產之智權實務', 'https://activity.tipo.gov.tw/ct.asp?xItem=37389&ctNode=817&mp=1')
+(2, 5, 2, 19, 63, '大師講堂（二)----侵害智慧財產權之損害賠償計算', 'https://activity.tipo.gov.tw/ct.asp?xItem=37382&ctNode=817&mp=1')
+(2, 5, 4, 26, 63, '【巨群法律講座】-合夥法律問題多！巨群帶您深入合夥議題面面觀。', 'https://activity.tipo.gov.tw/ct.asp?xItem=37391&ctNode=817&mp=1')
+(2, 5, 13, 21, 63, '開啟內在創新力-TRIZ公益講座 2020Q4', 'https://activity.tipo.gov.tw/ct.asp?xItem=37388&ctNode=817&mp=1')
+(2, 5, 16, 18, 63, 'AI專利適格性要求與申請技巧 | 線上講座', 'https://activity.tipo.gov.tw/ct.asp?xItem=37393&ctNode=817&mp=1')
+(2, 6, 7, 26, 63, '【台北場】群帆專利課程- 自己動手寫申請專利範圍Claims', 'https://activity.tipo.gov.tw/ct.asp?xItem=37381&ctNode=817&mp=1')
+Failed, test the root url...
+Failed, test exactly the task url...
+Failed, cannot find the event source page.
+Task ID: 48
+Task URL: https://cavesconnect.cavesbooks.com.tw/event/2020-cc-yearendevent/
+Root URL: https://cavesconnect.cavesbooks.com.tw/
+Explore root URL and task URL...
+(0, 0, 2, 4, 45, '所有活動', 'http://cavesconnect.cavesbooks.com.tw/events/')
+(0, 0, 3, 5, 63, '下一個活動', 'https://cavesconnect.cavesbooks.com.tw/event/thebookoflearning/')
+(2, 0, 0, 8, 46, '活動 Events', 'https://cavesconnect.cavesbooks.com.tw/events/')
+Accepted: https://cavesconnect.cavesbooks.com.tw/events/
+Task ID: 49
+Task URL: https://www.pcsr.com.tw/ptsr/sropsp-lectures-E20201101094
+Root URL: https://www.pcsr.com.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 41, '活動快報', 'https://www.pcsr.com.tw/ptsr/sropsp-event')
+(0, 0, 0, 6, 35, '活動訊息總覽', 'https://www.pcsr.com.tw/ptsr/sropsp')
+Accepted: https://www.pcsr.com.tw/ptsr/sropsp
+Task ID: 50
+Task URL: https://chccp.e-land.gov.tw/exhibitions/%e5%b1%95%e8%a6%bd%e2%94%82%e5%ae%9c%e8%98%ad%e6%a4%85%e5%b8%b8%e8%a8%ad%e5%b1%95/
+Root URL: https://chccp.e-land.gov.tw/
+Explore root URL and task URL...
+(0, 0, 2, 4, 74, '展演活動', 'https://chccp.e-land.gov.tw/%e5%b1%95%e6%bc%94%e8%88%87%e5%ad%b8%e7%bf%92/')
+Accepted: https://chccp.e-land.gov.tw/%e5%b1%95%e6%bc%94%e8%88%87%e5%ad%b8%e7%bf%92/
+Task ID: 51
+Task URL: https://community.decathlon.tw/en/activities/101498
+Root URL: https://community.decathlon.tw/
+Explore root URL and task URL...
+(0, 0, 2, 4, 69, '尋找活動 >', 'https://community.decathlon.tw/activities?startDate=2021-01-01&page=1')
+Failed, test the root url...
+Failed, test exactly the task url...
+Failed, cannot find the event source page.
+Task ID: 52
+Task URL: https://community.society.taichung.gov.tw/registration/Details.aspx?Parser=99,7,36,,,,,153
+Root URL: https://community.society.taichung.gov.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 80, '活動報名', 'https://community.society.taichung.gov.tw/registration/index.aspx?Parser=99,7,36')
+Accepted: https://community.society.taichung.gov.tw/registration/index.aspx?Parser=99,7,36
+Task ID: 53
+Task URL: https://ddyp.ddm.org.tw/activity.php?no=191
+Root URL: https://ddyp.ddm.org.tw/
+Explore root URL and task URL...
+(0, 0, 2, 4, 36, '法青活動', 'https://ddyp.ddm.org.tw/activity.php')
+Accepted: https://ddyp.ddm.org.tw/activity.php
+Task ID: 54
+Task URL: https://dschool.ntu.edu.tw/activity/107
+Root URL: https://dschool.ntu.edu.tw/
+Explore root URL and task URL...
+(0, 0, 2, 4, 27, '學院活動', 'https://dschool.ntu.edu.tw/')
+(0, 0, 2, 4, 35, '學院活動', 'https://dschool.ntu.edu.tw/activity')
+Accepted: https://dschool.ntu.edu.tw/activity
+Task ID: 55
+Task URL: https://event.rhythmsmonthly.com/tc-events/%e8%82%b2%e5%85%92%e6%94%be%e9%a3%9b%e8%a8%98/
+Root URL: https://event.rhythmsmonthly.com/
+Explore root URL and task URL...
+(0, 0, 2, 6, 98, '瞭解活動內容', 'https://event.rhythmsmonthly.com/tc-events/%e3%80%8a%e7%b6%93%e5%85%b8%e3%80%8b%e5%a3%af%e9%81%8a/')
+(0, 5, 0, 4, 40, '講師陣容', 'https://event.rhythmsmonthly.com/speaker')
+(0, 5, 3, 5, 97, '經典大講堂', 'https://event.rhythmsmonthly.com/tc-event-category/%E7%B6%93%E5%85%B8%E5%A4%A7%E8%AC%9B%E5%A0%82/')
+(0, 5, 4, 6, 105, '人文專題講座', 'https://event.rhythmsmonthly.com/tc-event-category/%E4%BA%BA%E6%96%87%E5%B0%88%E9%A1%8C%E8%AC%9B%E5%BA%A7')
+(0, 5, 4, 6, 106, '人文專題講座', 'https://event.rhythmsmonthly.com/tc-event-category/%e4%ba%ba%e6%96%87%e5%b0%88%e9%a1%8c%e8%ac%9b%e5%ba%a7/')
+(0, 5, 4, 6, 106, '幸福人生講座', 'https://event.rhythmsmonthly.com/tc-event-category/%E5%B9%B8%E7%A6%8F%E4%BA%BA%E7%94%9F%E8%AC%9B%E5%BA%A7/')
+Accepted: https://event.rhythmsmonthly.com/tc-event-category/%E5%B9%B8%E7%A6%8F%E4%BA%BA%E7%94%9F%E8%AC%9B%E5%BA%A7/
+Task ID: 56
+Task URL: https://www.sce.pccu.edu.tw/class_detail.aspx?id=0A34A912A
+Root URL: https://www.sce.pccu.edu.tw/
+Explore root URL and task URL...
+Blocked by IO: https://www.sce.pccu.edu.tw/class_detail.aspx?id=0A34A912A
+(0, 0, 5, 7, 55, '教學方法與活動', 'https://www.sce.pccu.edu.tw/class_list.aspx?cataid=0607')
+(0, 2, 3, 4, 55, '聲音表演', 'https://www.sce.pccu.edu.tw/class_list.aspx?cataid=1705')
+(0, 5, 2, 4, 41, '免費講座', 'https://www.sce.pccu.edu.tw/freetalk.aspx')
+Accepted: https://www.sce.pccu.edu.tw/freetalk.aspx
+Task ID: 57
+Task URL: https://ievents.iii.org.tw/EventS.aspx?t=0&id=814
+Root URL: https://ievents.iii.org.tw/
+Explore root URL and task URL...
+(0, 0, 0, 3, 41, '活動中', 'https://ievents.iii.org.tw/EventList.aspx')
+Accepted: https://ievents.iii.org.tw/EventList.aspx
+Task ID: 58
+Task URL: https://kingcar.org.tw/project/501222
+Root URL: https://kingcar.org.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 29, '活動報導', 'https://kingcar.org.tw/report')
+(0, 0, 0, 4, 37, '活動詳情', 'https://kingcar.org.tw/project/501194')
+(0, 0, 0, 4, 40, '活動心得', 'https://kingcar.org.tw/achievement/share')
+(0, 0, 4, 6, 30, '更多教育活動', 'https://kingcar.org.tw/welfare')
+(0, 0, 4, 6, 40, '更多教育活動', 'https://kingcar.org.tw/reading_education')
+(0, 5, 2, 4, 37, '校園講座', 'https://kingcar.org.tw/project/500777')
+(0, 5, 4, 6, 37, '夢想飛翔講座', 'https://kingcar.org.tw/project/500062')
+(0, 5, 4, 6, 37, '走讀校園講座', 'https://kingcar.org.tw/project/500646')
+(0, 5, 5, 7, 33, '愛泳不止息講座', 'http://kingcar.org.tw/project/129')
+(0, 8, 0, 4, 27, '最新消息', 'https://kingcar.org.tw/news')
+(2, 0, 0, 17, 34, '［活動延期通知］2020金車周末音樂日', 'https://kingcar.org.tw/news/501027')
+(2, 0, 0, 25, 34, '［活動延期通知］2020春季走讀、2020大松山千人走讀', 'https://kingcar.org.tw/news/501021')
+(2, 5, 9, 23, 34, '2021年 生命教育講座 - 愛泳不止息（國中小開放申請）', 'https://kingcar.org.tw/project/129')
+(3, 0, 0, 3, 56, '<img src="https://kingcar.org.tw/sites/default/files/styles/pj_img_inner/public/imagecache/external/1983a7172e0771fdcd0b36f19032f9da.jpg?itok=5EDvHwyp" width="350" height="245" alt="">', 'https://kingcar.org.tw/civicrm/event/info?reset=1&id=630')
+(4, 0, 0, 4, 28, '活動照片', 'https://kingcar.org.tw/album')
+(4, 0, 0, 4, 40, '活動影音', 'https://kingcar.org.tw/achievement/video')
+Failed, test the root url...
+Failed, test exactly the task url...
+Failed, cannot find the event source page.
+Task ID: 59
+Task URL: https://kml.kcg.gov.tw/act/info/detail?key=73
+Root URL: https://kml.kcg.gov.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 31, '活動訊息', 'https://kml.kcg.gov.tw/act/info')
+(0, 0, 0, 4, 36, '活動會議', 'https://kml.kcg.gov.tw/volunteer/act')
+(0, 1, 2, 4, 34, '當期展覽', 'https://kml.kcg.gov.tw/display/now')
+Accepted: https://kml.kcg.gov.tw/display/now
+Task ID: 60
+Task URL: https://lkkpomia.tgb.org.tw/posts/142/
+Root URL: https://lkkpomia.tgb.org.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 38, '活動內容', 'https://lkkpomia.tgb.org.tw/posts/142/')
+(0, 0, 2, 4, 28, '全部活動', 'https://lkkpomia.tgb.org.tw/')
+Accepted: https://lkkpomia.tgb.org.tw/
+Task ID: 61
+Task URL: http://activity.dsa.fju.edu.tw/Activity.jsp?activityID=28843
+Root URL: http://activity.dsa.fju.edu.tw/
+Explore root URL and task URL...
+(3, 0, 0, 90, 47, '<img src="images/check_1.jpg" border="0" onmouseover="src=\'images/check_1_a.jpg\'" onmouseout="src=\'images/check_1.jpg\'">', 'http://activity.dsa.fju.edu.tw/ActivityList.jsp')
+Accepted: http://activity.dsa.fju.edu.tw/ActivityList.jsp
+Task ID: 62
+Task URL: http://artist.nccu.edu.tw/fm1.html
+Root URL: http://artist.nccu.edu.tw/
+Explore root URL and task URL...
+(0, 1, 0, 4, 42, '展覽系列', 'http://artist.nccu.edu.tw/exhibitions.html')
+Accepted: http://artist.nccu.edu.tw/exhibitions.html
+Task ID: 63
+Task URL: http://bambooculture.com/civicrm/event/info?reset=1&id=166
+Root URL: http://bambooculture.com/
+Explore root URL and task URL...
+(0, 0, 2, 4, 34, '展演活動', 'http://bambooculture.com/event-all')
+Accepted: http://bambooculture.com/event-all
+Task ID: 64
+Task URL: http://jam.jutfoundation.org.tw/civicrm/event/info?reset=1&id=491
+Root URL: http://jam.jutfoundation.org.tw/
+Explore root URL and task URL...
+(0, 0, 0, 2, 47, '活動\n»', 'http://jam.jutfoundation.org.tw/online-activity')
+Accepted: http://jam.jutfoundation.org.tw/online-activity
+Task ID: 65
+Task URL: http://www.khm.org.tw/tw/event/detail/22
+Root URL: http://www.khm.org.tw/
+Explore root URL and task URL...
+(0, 0, 0, 2, 30, '活動', 'http://www.khm.org.tw/tw/event')
+Accepted: http://www.khm.org.tw/tw/event
+Task ID: 66
+Task URL: http://online.ktli.org.tw/event_20210508.php
+Root URL: http://online.ktli.org.tw/
+Explore root URL and task URL...
+(0, 8, 0, 4, 34, '最新訊息', 'http://online.ktli.org.tw/news.php')
+Accepted: http://online.ktli.org.tw/news.php
+Task ID: 67
+Task URL: http://techpromot.ccu.edu.tw/event/showEvent/78
+Root URL: http://techpromot.ccu.edu.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 48, '活動公告', 'http://techpromot.ccu.edu.tw/news/showNewsList/5')
+(2, 6, 15, 23, 46, '「大專校院智權從業人員培訓班」初階課程，觀迎踴躍參加！', 'http://techpromot.ccu.edu.tw/news/showNews/316')
+(2, 6, 24, 32, 46, '義守大學舉辦「109學年度智慧財產權實務工作坊」培訓課程，歡迎報名參加！', 'http://techpromot.ccu.edu.tw/news/showNews/319')
+(3, 0, 0, 42, 47, '<img src="/images/left/bt/bt_01.jpg" width="113" height="18">', 'http://techpromot.ccu.edu.tw/news/showNewsList/')
+(3, 0, 0, 80, 49, '<img onmouseover="chgInofficeBlock(4);" id="menu_image_04" src="/images/bt/bt_4.jpg" width="100" height="28">', 'http://techpromot.ccu.edu.tw/event/showEventList/')
+Accepted: http://techpromot.ccu.edu.tw/event/showEventList/
+Task ID: 68
+Task URL: http://tpecitygod.org/hot-news1030624.html
+Root URL: http://tpecitygod.org/
+Explore root URL and task URL...
+(3, 0, 0, 3, 35, '<img src="image/index01.gif" width="790" height="450" alt="">', 'http://tpecitygod.org/hot-news.html')
+Accepted: http://tpecitygod.org/hot-news.html
+Task ID: 69
+Task URL: https://www.chimeimuseum.org/%E7%95%B6%E6%9C%9F%E5%B1%95%E8%A6%BD/4C579057-AAB3-4618-80B8-9F89975D0871/40/120
+Root URL: https://www.chimeimuseum.org/
+Explore root URL and task URL...
+(0, 0, 4, 6, 109, '特展主題活動', 'https://www.chimeimuseum.org/%E7%95%B6%E6%9C%9F%E5%B1%95%E8%A6%BD/4C579057-AAB3-4618-80B8-9F89975D0871/40/123')
+(0, 0, 5, 7, 96, '<img class="sImg" src="/img/menu/2018120614384810.png" alt="當期活動">', 'https://www.chimeimuseum.org/%E6%89%BE%E6%B4%BB%E5%8B%95/A891E828-042A-41F9-8B6F-D7F30E55FDC4/ls')
+Accepted: https://www.chimeimuseum.org/%E6%89%BE%E6%B4%BB%E5%8B%95/A891E828-042A-41F9-8B6F-D7F30E55FDC4/ls
+Task ID: 70
+Task URL: http://www.dadun.culture.taichung.gov.tw/Exhibition/ActiveDetail?g=AAD0000255
+Root URL: http://www.dadun.culture.taichung.gov.tw/
+Explore root URL and task URL...
+(1, 0, 0, 6, 59, '前往展演活動', 'https://www.dadun.culture.taichung.gov.tw/Exhibition/Active')
+(1, 0, 0, 6, 72, '前往展演活動', 'http://www.dadun.culture.taichung.gov.tw/TCDCCFrontend/Exhibition/Active')
+Accepted: http://www.dadun.culture.taichung.gov.tw/TCDCCFrontend/Exhibition/Active
+Task ID: 71
+Task URL: https://www.sow.org.tw/civicrm/event/info?reset=1&id=9780
+Root URL: https://www.sow.org.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 28, '活動消息', 'https://www.sow.org.tw/event')
+Accepted: https://www.sow.org.tw/event
+Task ID: 72
+Task URL: https://www.mocataipei.org.tw/tw/ExhibitionAndEvent/Info/%E8%A8%98%E6%86%B6%E7%9A%84%E7%96%86%E7%95%8C
+Root URL: https://www.mocataipei.org.tw/
+Explore root URL and task URL...
+(0, 0, 2, 4, 51, '展覽活動', 'https://www.mocataipei.org.tw/tw/ExhibitionAndEvent')
+Accepted: https://www.mocataipei.org.tw/tw/ExhibitionAndEvent
+Task ID: 73
+Task URL: http://www.parenting.tw/campaign_detail.asp?artid=00024&nouse=1443
+Root URL: http://www.parenting.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 36, '活動訊息', 'http://www.parenting.tw/campaign.asp')
+Accepted: http://www.parenting.tw/campaign.asp
+Task ID: 74
+Task URL: http://www.poly.tw/article.php?id=339
+Root URL: http://www.poly.tw/
+Explore root URL and task URL...
+(0, 0, 0, 2, 32, '活動', 'http://www.poly.tw/cata.php?id=2')
+Accepted: http://www.poly.tw/cata.php?id=2
+Task ID: 75
+Task URL: http://www.psygarden.com.tw/news.php?func=activity&activityid=MjAyMDEwMjgxODU1MzU=
+Root URL: http://www.psygarden.com.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 36, '活動訊息', 'http://www.psygarden.com.tw/news.php')
+Accepted: http://www.psygarden.com.tw/news.php
+Task ID: 76
+Task URL: http://www.sundaytour.com.tw/zh-tw/player/edm-detail.php?tripid=&pid=194
+Root URL: http://www.sundaytour.com.tw/
+Explore root URL and task URL...
+(0, 0, 2, 4, 54, '最新活動', 'http://www.sundaytour.com.tw/zh-tw/player/edm-list.php')
+Accepted: http://www.sundaytour.com.tw/zh-tw/player/edm-list.php
+Task ID: 77
+Task URL: https://act.cjcu.edu.tw/ActiveSite/act.aspx?id=11630
+Root URL: https://act.cjcu.edu.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 50, ' 活動總覽', 'https://act.cjcu.edu.tw/ActiveSite/ActiveList.aspx')
+Accepted: https://act.cjcu.edu.tw/ActiveSite/ActiveList.aspx
+Task ID: 78
+Task URL: https://www.ncl.edu.tw/activityhistory_238_848.html
+Root URL: https://www.ncl.edu.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 51, '活動訊息', 'https://www.ncl.edu.tw/activityhistorylist_238.html')
+Accepted: https://www.ncl.edu.tw/activityhistorylist_238.html
+Task ID: 79
+Task URL: https://cheng-sing.com/blog/GPnQ2h
+Root URL: https://cheng-sing.com/
+Explore root URL and task URL...
+(0, 0, 0, 4, 33, '> 活動報名', 'https://cheng-sing.com/productHot')
+(0, 1, 0, 4, 41, '> 展覽資訊', 'https://cheng-sing.com/productInformation')
+Accepted: https://cheng-sing.com/productInformation
+Task ID: 80
+Task URL: http://www.aheritage.tw/27963212053533824687.html
+Root URL: http://www.aheritage.tw/
+Explore root URL and task URL...
+(0, 1, 0, 2, 39, '展覽', 'http://www.aheritage.tw/2363735261.html')
+Accepted: http://www.aheritage.tw/2363735261.html
+Task ID: 81
+Task URL: https://conference.itl.nctu.edu.tw/conference_content.php?CONF_ID=356
+Root URL: https://conference.itl.nctu.edu.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 56, '活動一覽', 'https://conference.itl.nctu.edu.tw/history_conf_list.php')
+Accepted: https://conference.itl.nctu.edu.tw/history_conf_list.php
+Task ID: 82
+Task URL: https://culture.skm.com.tw/ActEvent/Cweb/ActiveContent?MenuUUID=fbb04422-ea7f-4126-bfc6-18398af36442&ActUUID=d111af2e-1806-44b7-b1cc-efddb32e479f
+Root URL: https://culture.skm.com.tw/
+Explore root URL and task URL...
+(0, 0, 2, 4, 43, '展演活動', 'https://culture.skm.com.tw/home/performance')
+Accepted: https://culture.skm.com.tw/home/performance
+Task ID: 83
+Task URL: https://culture.tainan.gov.tw/registration/index-1.php?m2=53&sid=1127
+Root URL: https://culture.tainan.gov.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 51, '活動海報', 'https://culture.tainan.gov.tw/tour/indexp.php?m2=33')
+(0, 0, 0, 4, 52, '活動訊息', 'https://culture.tainan.gov.tw/active/index.php?m2=16')
+(0, 0, 0, 4, 53, '活動週報', 'https://culture.tainan.gov.tw/epaper/indexw.php?m2=31')
+(0, 0, 2, 4, 50, '文史活動', 'https://culture.tainan.gov.tw/form/index.php?m2=82')
+(0, 0, 2, 4, 51, '主題活動', 'https://culture.tainan.gov.tw/album/index.php?m2=50')
+(0, 0, 2, 7, 48, '本局活動 rss', 'https://culture.tainan.gov.tw/rss.php?m2=16&md=1')
+(0, 0, 2, 7, 48, '本市活動 rss', 'https://culture.tainan.gov.tw/rss.php?m2=16&md=2')
+(0, 0, 4, 6, 55, '每月藝文活動', 'https://culture.tainan.gov.tw/act_month/index.php?m2=30')
+(0, 2, 2, 6, 51, '立案演藝團隊', 'https://culture.tainan.gov.tw/table/index.php?m2=43')
+(0, 2, 3, 6, 53, '本市展演空間', 'https://culture.tainan.gov.tw/content/index.php?m2=42')
+(1, 0, 0, 4, 50, '更多公告', 'https://culture.tainan.gov.tw/news/index.php?m2=18')
+(1, 0, 0, 4, 50, '更多轉知', 'https://culture.tainan.gov.tw/news/index.php?m2=19')
+(1, 0, 0, 5, 50, '更多新聞稿', 'https://culture.tainan.gov.tw/news/index.php?m2=17')
+(2, 0, 4, 9, 43, '每月藝文活動rss', 'https://culture.tainan.gov.tw/rss.php?m2=30')
+(2, 0, 6, 14, 61, '110年藝文活動文宣印製派送', 'https://culture.tainan.gov.tw/news/index-1.php?m2=20&id=31631')
+(2, 2, 7, 18, 61, '110年度傑出演藝團隊徵選及獎勵計畫', 'https://culture.tainan.gov.tw/news/index-1.php?m2=18&id=31597')
+(2, 2, 16, 34, 61, '本局民族管絃樂團甄選約聘團員(擊樂演奏員)，110年1月6日(星期三)截止報名', 'https://culture.tainan.gov.tw/news/index-1.php?m2=21&id=31666')
+(2, 6, 6, 8, 51, '性別意識培力課程', 'https://culture.tainan.gov.tw/form/index.php?m2=271')
+(2, 6, 8, 10, 63, '樹屋小學校2.0開課囉~~', 'https://culture.tainan.gov.tw/active/index-1.php?m2=16&id=31349')
+(4, 0, 0, 4, 51, '活動回顧', 'https://culture.tainan.gov.tw/album/index.php?m2=51')
+(4, 0, 0, 4, 51, '活動花絮', 'https://culture.tainan.gov.tw/album/index.php?m2=23')
+Failed, test the root url...
+Failed, test exactly the task url...
+Failed, cannot find the event source page.
+Task ID: 84
+Task URL: https://erf.org.tw/events/%e5%a4%a9%e6%b6%af%e6%b5%b7%e8%a7%92%e9%9b%bb%e5%bd%b1%e9%99%a2%e9%a6%ac%e5%b4%97%e5%a0%b4%ef%bc%9a%e3%80%8a%e5%9b%9e%e4%be%86%e5%ae%89%e5%b9%b3%e6%b8%af%e3%80%8b%e6%9a%a8%e7%99%be%e5%b9%b4%e7%9f%b3/
+Root URL: https://erf.org.tw/
+Explore root URL and task URL...
+(0, 0, 0, 2, 29, '活動', 'https://erf.org.tw/eventlist/')
+Accepted: https://erf.org.tw/eventlist/
+Task ID: 85
+Task URL: https://event.culture.tw/NMP/portal/Registration/C0103MAction?useLanguage=tw&actId=00060&request_locale=tw
+Root URL: https://event.culture.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 61, '活動查詢', 'https://event.culture.tw/NMP/portal/Registration/C0102MAction')
+Accepted: https://event.culture.tw/NMP/portal/Registration/C0102MAction
+Task ID: 86
+Task URL: https://fantasystory.com.tw/ltp_view.php?id=2394
+Root URL: https://fantasystory.com.tw/
+Explore root URL and task URL...
+(0, 0, 1, 3, 49, '遊活動', 'https://fantasystory.com.tw/sv_activity.php?sid=3')
+(0, 0, 2, 4, 42, '尋找活動', 'https://fantasystory.com.tw/ltp_search.php')
+Accepted: https://fantasystory.com.tw/ltp_search.php
+Task ID: 87
+Task URL: https://hiking.biji.co/index.php?q=news&act=info&id=18735
+Root URL: https://hiking.biji.co/
+Explore root URL and task URL...
+(0, 0, 0, 2, 40, '活動', 'https://hiking.biji.co/index.php?q=event')
+Accepted: https://hiking.biji.co/index.php?q=event
+Task ID: 88
+Task URL: https://www.tys.org.tw/fycm/article.asp?article_id=314
+Root URL: https://www.tys.org.tw/
+Explore root URL and task URL...
+(0, 6, 2, 4, 121, '佛學課程', 'https://www.tys.org.tw/fycm/article_cate_list.asp?article_cate_id=2&article_sub_cate=%E4%BD%9B%E5%AD%B8%E8%AA%B2%E7%A8%8B')
+Accepted: https://www.tys.org.tw/fycm/article_cate_list.asp?article_cate_id=2&article_sub_cate=%E4%BD%9B%E5%AD%B8%E8%AA%B2%E7%A8%8B
+Task ID: 89
+Task URL: https://law.moeasmea.gov.tw/ailt/modules/events/detail.php?id=188
+Root URL: https://law.moeasmea.gov.tw/
+Explore root URL and task URL...
+(0, 6, 2, 3, 48, '去上課', 'https://law.moeasmea.gov.tw/ailt/modules/events/')
+Accepted: https://law.moeasmea.gov.tw/ailt/modules/events/
+Task ID: 90
+Task URL: https://rice.furkid.org/%e6%b4%bb%e5%8b%95/%e3%80%90%e6%b4%bb%e5%8b%95%e3%80%91lifeapp%e8%88%92%e5%bc%a7%e5%a2%8a/
+Root URL: https://rice.furkid.org/
+Explore root URL and task URL...
+(0, 0, 0, 2, 52, '活動', 'https://rice.furkid.org/category/%e6%b4%bb%e5%8b%95/')
+Accepted: https://rice.furkid.org/category/%e6%b4%bb%e5%8b%95/
+Task ID: 91
+Task URL: https://skyline.tw/activity/activity-uioq923lszeqb9e48vedum18fsml0mu
+Root URL: https://skyline.tw/
+Explore root URL and task URL...
+(0, 0, 2, 4, 47, '競賽活動', 'https://skyline.tw/activity/explore?category=10')
+(0, 5, 2, 4, 46, '分享講座', 'https://skyline.tw/activity/explore?category=5')
+(1, 0, 0, 4, 35, '探索機會', 'https://skyline.tw/activity/explore')
+Accepted: https://skyline.tw/activity/explore
+Task ID: 92
+Task URL: https://south.npm.gov.tw/ActivityInfoDetailC003210.aspx?Cond=fff2bebb-f05c-435f-90bf-b454c9a3959b&appname=ActivityInfo3213&State=2
+Root URL: https://south.npm.gov.tw/
+Explore root URL and task URL...
+(0, 0, 0, 2, 55, '活動', 'https://south.npm.gov.tw/ExhibitionAndActivity/Activity')
+(0, 0, 1, 3, 64, '有活動', 'https://south.npm.gov.tw/ExhibitionActivity.aspx?Date=2020-07-26')
+(0, 0, 2, 4, 78, '更多活動', 'https://south.npm.gov.tw/ActivityInfoListC003210.aspx?appname=ActivityInfo3212')
+Accepted: https://south.npm.gov.tw/ActivityInfoListC003210.aspx?appname=ActivityInfo3212
+Task ID: 93
+Task URL: https://www.wildviewtaiwan.org.tw/movie/1831
+Root URL: https://www.wildviewtaiwan.org.tw/
+Explore root URL and task URL...
+(0, 8, 0, 4, 38, '最新消息', 'https://www.wildviewtaiwan.org.tw/news')
+(2, 0, 5, 13, 42, '第九屆募款活動網路公告徵信', 'https://www.wildviewtaiwan.org.tw/page/461')
+(3, 0, 0, 3, 43, '<img typeof="foaf:Image" src="https://www.wildviewtaiwan.org.tw/sites/www.wildviewtaiwan.org.tw/files/styles/custom_600/public/images/field_image/news/wild_ireland_the_edge_of_the_world-promo-still-1.jpg?itok=_YTeFTIB" width="600" height="600" alt="">', 'https://www.wildviewtaiwan.org.tw/news/1990')
+(3, 0, 0, 3, 43, '<img typeof="foaf:Image" src="https://www.wildviewtaiwan.org.tw/sites/www.wildviewtaiwan.org.tw/files/styles/list_col_2_2018/public/images/field_image/news/1230.jpg?itok=5M0kVJX_" width="600" height="275" alt="">', 'https://www.wildviewtaiwan.org.tw/news/2110')
+(4, 3, 2, 4, 42, '野望影展', 'https://www.wildviewtaiwan.org.tw/festival')
+Accepted: https://www.wildviewtaiwan.org.tw/festival
+Task ID: 94
+Task URL: https://vvg.com.tw/news-post/262
+Root URL: https://vvg.com.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 30, '活動總覽', 'https://vvg.com.tw/news?cate=1')
+(0, 8, 0, 4, 23, '最新消息', 'https://vvg.com.tw/news')
+Accepted: https://vvg.com.tw/news
+Task ID: 95
+Task URL: https://www.228.org.tw/228museum_exhibition-view.php?ID=342
+Root URL: https://www.228.org.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 47, '活動資訊', 'https://www.228.org.tw/228museum_event.php?sn=1')
+Accepted: https://www.228.org.tw/228museum_event.php?sn=1
+Task ID: 96
+Task URL: https://www.bigcamera.com.tw/activity_view.php?no=236
+Root URL: https://www.bigcamera.com.tw/
+Explore root URL and task URL...
+(0, 0, 0, 6, 41, '活動報名專區', 'https://www.bigcamera.com.tw/activity.php')
+Accepted: https://www.bigcamera.com.tw/activity.php
+Task ID: 97
+Task URL: https://www.ccat.tw/civicrm/event/info?reset=1&id=105
+Root URL: https://www.ccat.tw/
+Explore root URL and task URL...
+(0, 0, 2, 4, 25, '參加活動', 'https://www.ccat.tw/event')
+Accepted: https://www.ccat.tw/event
+Task ID: 98
+Task URL: https://www.coliving.taichung.gov.tw/civicrm/event/info?reset=1&id=75
+Root URL: https://www.coliving.taichung.gov.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 42, '活動情報', 'https://www.coliving.taichung.gov.tw/event')
+Accepted: https://www.coliving.taichung.gov.tw/event
+Task ID: 99
+Task URL: https://www.hfec.org.tw/content/18697
+Root URL: https://www.hfec.org.tw/
+Explore root URL and task URL...
+(0, 0, 0, 4, 30, '活動總覽', 'https://www.hfec.org.tw/events')
+Accepted: https://www.hfec.org.tw/events
+Task ID: 100
+Task URL: https://www.orchina.net/event/672
+Root URL: https://www.orchina.net/
+Explore root URL and task URL...
+(0, 0, 0, 2, 30, '活動', 'https://www.orchina.net/events')
+Accepted: https://www.orchina.net/events
