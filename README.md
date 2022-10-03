@@ -4,11 +4,11 @@
 主題為根據活動之各種資料判斷該活動是否適合各種年齡參與。<br>
 首先要求各組對自身負責的一部分訓練資料做標記並計算Cohen's kappa，而後公開各組Cohen's kappa並統整全班標記資料集舉行kaggle競賽，各組自行選擇有興趣之模型嘗試。<br>
 <br>
-kaggle競賽網址:https://www.kaggle.com/competitions/ncu2020aihw1<br>
-kaggle競賽初期限制每日上傳五次，後期調整至十次。由於班上有些同學沒有太多相關的競賽經驗，助教發現之後趕緊公告：一般應該先自行再分割訓練資料集進行簡單的validation，確定模型效果比較滿意之後才嘗試上傳結果。然而已經太遲了，排行榜上充斥著各組為了進行測試而創的分身帳號......<br>
-<br>
 "kappa_calculator.cpp"為我負責計算Cohen's kappa時面對重複枯燥計算過程開發的輔助工具。標記活動中我分配至第7組，但其後組員在需課堂分組討論時不巧曠課，我於群組中糾正後其逕行退群......最終小組解散，我獨立分配至第11組繼續進行專題。<br>
-本次專題我使用Colab開發：https://colab.research.google.com/drive/1QaLxYzlXAJybnFCfOwGTWfNvDz-qy_SF?usp=sharing
+本次專題我使用Colab開發：https://colab.research.google.com/drive/1QaLxYzlXAJybnFCfOwGTWfNvDz-qy_SF?usp=sharing<br>
+<br>
+kaggle競賽網址:https://www.kaggle.com/competitions/ncu2020aihw1<br>
+kaggle競賽初期限制每日上傳五次，後期調整至十次。由於班上有些同學沒有太多相關的競賽經驗，助教發現之後趕緊公告：一般應該先自行再分割訓練資料集進行簡單的validation，確定模型效果比較滿意之後才嘗試上傳結果。然而已經太遲了，排行榜上充斥著各組為了進行測試而創的分身帳號......
 # Project 2
 感謝助教的指教，這天兵寫的報告總算沒那麼糟糕了。<br>
 <br>
